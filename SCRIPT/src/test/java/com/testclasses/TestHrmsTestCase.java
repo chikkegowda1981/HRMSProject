@@ -19,7 +19,7 @@ public class TestHrmsTestCase extends BaseTest  {
 	public void VerifyOrangHrmsLogin() {
 		
 		hrmsLogin.OrangeLogin();
-		
+		System.out.println("Logged in successfully");
 		
 		
 	}
